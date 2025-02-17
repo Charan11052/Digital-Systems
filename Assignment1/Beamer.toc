@@ -1,0 +1,9 @@
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{Map Method}{4}{0}{2}
+\beamer@sectionintoc {3}{2 Variable K-Map}{5}{0}{3}
+\beamer@sectionintoc {4}{3 Variable K-Map }{6}{0}{4}
+\beamer@sectionintoc {5}{4 Variable K-Map }{8}{0}{5}
+\beamer@sectionintoc {6}{Prime Implicants}{9}{0}{6}
+\beamer@sectionintoc {7}{Product Of Sums}{11}{0}{7}
+\beamer@sectionintoc {8}{Don't Care Conditions}{13}{0}{8}
+\beamer@sectionintoc {9}{Conclusion}{14}{0}{9}
